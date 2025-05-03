@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "turbotechmods.comfortplus.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"GlobalOptions"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

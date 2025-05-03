@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "comfortplus",
+	"version": "${version}",
+	"name": "Comfort+",
+	"description": "Minecraft should be comfy.",
+	"authors": [
+		"TurboTech"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/project/comfort+",
+		"sources": "https://github.com/Luk3210/comfort-plus",
+		"issues": "https://github.com/Luk3210/comfort-plus/issues"
+	},
+	"license": "LGPL-3.0-only",
+	"icon": "assets/comfortplus/icon.png",
+	"environment": "client",
+	"entrypoints": {
+		"main": [
+			"turbotechmods.comfortplus.Comfort"
+		]
+	},
+	"mixins": [
+		"comfortplus.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.14",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*",
+		"puzzle": "*"
+	}
+}
