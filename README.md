@@ -9,3 +9,4 @@
 
 ## Known issues:
 - If a resourcepack is not in both your OS determined default Minecraft Directory and the active Minecraft instance directory, your resource packs may get disabled when you switch back to the default path's instance until you turn them back on. This issue is priority for this project atm. 
+ 
