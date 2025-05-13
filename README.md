@@ -17,7 +17,7 @@
 - **Invisible offhand totem**
   - Makes a totem in your off-hand invisible when in first person to widen your view.
 - **Peace and quiet**
-  - Makes zombie piglins, endermen, minecarts, eating, drinking, water, and nether portals quieter.
+  - Makes zombie piglins and endermen (commonly farmed mobs), minecarts, eating, drinking, water, and nether portals quieter.
 - **No Fog**
   - Disables nether and end fog, which are the main annoying ones. This keeps the overworld fog so that chunks load in visually smoothly.
 ## Coming Soon:
