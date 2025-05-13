@@ -28,6 +28,7 @@
 		"minecraft": "~1.21.5",
 		"java": ">=21",
 		"fabric-api": "*",
-		"puzzle": "*"
+		"puzzle": "*",
+		"sodium-extra":"*"
 	}
 }
