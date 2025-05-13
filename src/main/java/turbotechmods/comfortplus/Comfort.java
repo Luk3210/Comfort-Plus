@@ -11,7 +11,8 @@ public class Comfort implements ModInitializer {
 
 	@Override
 	public void onInitialize() {
-        LOGGER.info("Default Minecraft Path: {}", DEFAULT_MINECRAFT_PATH);
+		NoFog.loadConfig();
+	        LOGGER.info("Default Minecraft Path: {}", DEFAULT_MINECRAFT_PATH);
 	}
 
 	private static String defaultMinecraftPath() {
