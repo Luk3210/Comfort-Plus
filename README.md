@@ -21,6 +21,6 @@
 - **No Fog**
   - Disables nether and end fog, which are the main annoying ones. This keeps the overworld fog so that chunks load in visually smoothly.
 ## Coming Soon:
-- Multiplayer button from the pause screen.
+- Multiplayer button from the pause screen
 - Global options
 - Clear water
