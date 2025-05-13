@@ -8,7 +8,7 @@
   <img alt="fabric" height="56" src="https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3.2.0/assets/cozy/available/github_vector.svg" />
 </a>
 
-## **Currently in alpha; stability cannot be guaranteed.**
+## **Currently in alpha; stability cannot be guaranteed. Always use the latest version.**
 
 ## Features
 - **Dark mode**
