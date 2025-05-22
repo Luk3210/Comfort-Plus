@@ -24,3 +24,4 @@
 - Multiplayer button from the pause screen
 - Global options
 - Clear water
+- Lower shield
